@@ -76,16 +76,17 @@ div img{
 
 }
 
-data-hr{
+.data-hr{
     width: 80%;
-    border: 2px solid;
+    border: 2px solid rgb(238, 235, 221);
+    box-shadow: 0px 1px 20px #ce1212;
 }
 
 .cards{
     display: inline-block;
     min-width: 200px;
     max-width: 400px;
-    margin: 80px 4%;
+    margin: 80px 5%;
     background-color:rgba(206, 18, 18,0.5);
     padding: 20px 30px;
     box-sizing: border-box;
@@ -122,4 +123,5 @@ data-hr{
 .btn-contacto img:hover{
 
 }
+
 
